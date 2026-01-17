@@ -124,3 +124,33 @@ li a,
     font-weight: bold;
     font-size: 24px;
 }
+
+.cta-section{
+    padding: 80px 200px;
+}
+
+.action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    color: white;
+    padding: 20px 100px;
+    border-radius: 8px;
+}
+
+.action h1{
+    font-size: 24px;
+    margin-bottom: -10px;
+}
+
+.cta-button{
+    color: white;
+    border: 2px solid white;
+    background-color: #3882F6;
+    padding: 8px 24px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
